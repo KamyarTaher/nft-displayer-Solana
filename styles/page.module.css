@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.grid {
+  height: 85vh;
+  width: 85vw;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  justify-self: center;
+  margin: min(2rem, 1%);
+}
